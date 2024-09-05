@@ -272,14 +272,12 @@ int main() {
 
 ![Screenshot 2024-09-05 215235](https://github.com/user-attachments/assets/45e06044-a917-47f7-a80c-244c77186e30)
 ### 4.
-
+![Screenshot 2024-09-05 220543](https://github.com/user-attachments/assets/853b4ea5-0822-49aa-9d8a-25f151008d60)
 
 ### 5. 
-![Screenshot 2024-09-04 102120](https://github.com/user-attachments/assets/3fc64a49-35ce-448d-b71b-960feeb532f9)
 
 ### 6.
-![Screenshot 2024-09-04 102133](https://github.com/user-attachments/assets/bf879042-15b0-48ef-b66a-1d1bc6c0d37a)
 
 ## Conclusion :
--  We learnt about constructors and deconstructors in C++. 
--  We learnt the use case of each of them in C++.  
+-  We learned about constructors and deconstructors in C++. 
+-  We learned the use case of each of them in C++.  
