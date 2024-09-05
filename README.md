@@ -265,8 +265,7 @@ int main() {
 
 ## Outputs :
 ### 1.
-![Screenshot 2024-09-04 101935](https://github.com/user-attachments/assets/adcb74e3-ca12-406e-817c-ec3022262abb)
-
+![Screenshot 2024-09-05 213741](https://github.com/user-attachments/assets/7c776418-cdb4-49ed-a4fa-f0699b594c93)
 ### 2.
 ![Screenshot 2024-09-04 102002](https://github.com/user-attachments/assets/13f395d2-b85e-4d28-b179-3893ae3c7e1d)
 
