@@ -275,8 +275,10 @@ int main() {
 ![Screenshot 2024-09-05 220543](https://github.com/user-attachments/assets/853b4ea5-0822-49aa-9d8a-25f151008d60)
 
 ### 5. 
+![Screenshot 2024-09-05 221233](https://github.com/user-attachments/assets/a7382a54-64c7-4d2b-ba24-414b939de519)
 
 ### 6.
+![Screenshot 2024-09-05 221521](https://github.com/user-attachments/assets/d2353b1a-2a62-487f-83f3-c733e2e86f81)
 
 ## Conclusion :
 -  We learned about constructors and deconstructors in C++. 
