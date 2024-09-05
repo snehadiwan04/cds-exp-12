@@ -267,10 +267,8 @@ int main() {
 ### 1.
 ![Screenshot 2024-09-05 213741](https://github.com/user-attachments/assets/7c776418-cdb4-49ed-a4fa-f0699b594c93)
 ### 2.
-![Screenshot 2024-09-04 102002](https://github.com/user-attachments/assets/13f395d2-b85e-4d28-b179-3893ae3c7e1d)
-
+![Screenshot 2024-09-05 214820](https://github.com/user-attachments/assets/34a22188-8c17-44f7-8fd4-1c58a5a0e931)
 ### 3.
-![Screenshot 2024-09-04 102034](https://github.com/user-attachments/assets/e9eeb7fc-4034-464f-8425-60e62e40c99f)
 
 ### 4.
 ![Screenshot 2024-09-04 102102](https://github.com/user-attachments/assets/6c32667c-05c6-40c9-a77c-e7280a584139)
