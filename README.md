@@ -9,13 +9,13 @@ Vs code
 ## Theory :
 
 ### Constructors :
-Constructors are unique member functions of a class that are automatically called when an object of the class is created.<br> The object’s data members are initialized. Resources may also be allocated when required.
+Constructors are unique member functions of a class that are automatically called when an object is created.<br> The object’s data members are initialized. Resources may also be allocated when required.
 
-There are some key points about costructors which are: 
-- The name of the constructor is same as its class name. 
+There are some key points about constructors which are: 
+- The name of the constructor is the same as its class name. 
 - Constructors do not have a return type. 
 - Constructors are mostly declared in the public section of the class. 
-- Multiple constructors can be defined with different parameters, this is known as overloading.
+- Multiple constructors can be defined with different parameters, which is known as overloading.
 There are mainly 3 types of constructors.
 They are: 
 
@@ -37,7 +37,7 @@ A destructor is also a special member function like a constructor.
 - The destructor is only one way to destroy the object created by the constructor. 
 - Destructor neither requires any argument nor returns any value.
 -  It is automatically called when an object goes out of scope.
--  Destructor release memory space occupied by the objects created by the constructor.
+-  Destructor releases memory space occupied by the objects created by the constructor.
 
 ## Codes :
 ### 1.
@@ -272,7 +272,7 @@ int main() {
 
 ![Screenshot 2024-09-05 215235](https://github.com/user-attachments/assets/45e06044-a917-47f7-a80c-244c77186e30)
 ### 4.
-![Screenshot 2024-09-04 102102](https://github.com/user-attachments/assets/6c32667c-05c6-40c9-a77c-e7280a584139)
+
 
 ### 5. 
 ![Screenshot 2024-09-04 102120](https://github.com/user-attachments/assets/3fc64a49-35ce-448d-b71b-960feeb532f9)
