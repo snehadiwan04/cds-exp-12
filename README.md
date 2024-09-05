@@ -270,6 +270,7 @@ int main() {
 ![Screenshot 2024-09-05 214820](https://github.com/user-attachments/assets/34a22188-8c17-44f7-8fd4-1c58a5a0e931)
 ### 3.
 
+![Screenshot 2024-09-05 215235](https://github.com/user-attachments/assets/45e06044-a917-47f7-a80c-244c77186e30)
 ### 4.
 ![Screenshot 2024-09-04 102102](https://github.com/user-attachments/assets/6c32667c-05c6-40c9-a77c-e7280a584139)
 
